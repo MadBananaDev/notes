@@ -1,0 +1,398 @@
+
+November 10, 2024
+
+@Marsniper27
+what i was doing wasnt worth paying for api though
+
+MonkeyMike.eth — 11/10/2024 07:54 PM
+right on. 
+ive been farting for too long trying to use netter, and then parse it, and log it, and switch instances, that ive put more than enough money into trying to solve it, that i decided, for somthing like this, im going to pay the $200 so we can make a million dollar application
+[07:54 PM]
+GIF
+[07:55 PM]
+elon got me. i see the value. its tremendous
+
+we can autonamously reward engagement actions
+[07:57 PM]
+MUTUALLY BENEFICIAL
+RETICULATED
+CLOSED LOOP CIRCULAR ECONOMY 
+and is a direct exchange of value, intermediated by cryptographically secure immutable persistant data. 
+
+We have 10 communities already ready to use this tool. 
+
+i really want to find out how we can hook into uniswap, unichain, and the v4 hooks for TWAMM
+[07:58 PM]
+we can route our auto transactions to initiate constant matching flow in and out, coding in a liquid threshold, that the faucets will never run out
+[07:58 PM]
+https://blog.uniswap.org/uniswap-v4-truncated-oracle-hook
+Uniswap Protocol
+Uniswap v4 Truncated Oracle Hook
+This example Uniswap v4 hook implements a Truncated Geometric Mean oracle. This oracle is more resistant to manipulation techniques by blunting the price impact of large trades.
+
+
+Marsniper27 — 11/10/2024 07:59 PM
+ya the project i was doing for ti was a good idea... but the guy doing it has trouble bringign things to life so i wasnt spending my money until it was at a point it looked like it would take off... it is now stagnant lol so i was right.
+
+1
+
+MonkeyMike.eth — 11/10/2024 08:00 PM
+your site is baddass by the way. lets do this !!! im all in with you. im pumped you saw the light on this, ive been quiet about my master plan, only telling a few people
+[08:00 PM]
+i get first dibs on the angel round 
+
+1
+
+1
+
+1
+
+1
+[08:00 PM]
+teehee
+[08:00 PM]
+we get a MVP, run it for 6 months, produce some metrics, and we will be in full bull by the then and people will start throwing money at us (edited)
+[08:01 PM]
+Every. single. community. needs this. 
+its an  turig complete social acitvity machine.
+[08:02 PM]
+im also unemployeed (self-employed) so with the money i just got, now this is officially my full time thing
+[08:03 PM]
+was pumped to hop on here and tell you
+[08:03 PM]
+hahaha
+[08:04 PM]
+i have ways in which we can apply this to DAO working group operations. 
+and we have people in line waiting to test this (edited)
+[08:05 PM]
+JWT + TIMEBASED TASKS + EVM + new API surges + light web micro services combined to create the first ever sustainable economy. hahahaha (edited)
+
+MonkeyMike.eth — 11/10/2024 08:07 PM
+also, how you want me to pay you ?
+
+how much you want for the work so far ?
+i can pay you tomorrow, after i go to the bank.
+
+Marsniper27 — 11/10/2024 11:17 PM
+how about we do $500 for what has been done so far.
+
+@Marsniper27
+how about we do $500 for what has been done so far.
+
+MonkeyMike.eth — 11/10/2024 11:34 PM
+iight, as long as that means itll be a minimum viable product for me to launch and a beta, im cool. 
+
+then we can keep the ball rolling,
+
+Marsniper27 — 11/10/2024 11:40 PM
+100% we will get it all going. I have the bot currently running on my pc I will get it up on the server so its more stable might fix some of these issues currently having with it.
+
+1
+[11:42 PM]
+What time zone are you in? It is almost 1am here. we should try to find a time we can chat and figure out exactly what need for MVP
+
+1
+
+MonkeyMike.eth — 11/10/2024 11:55 PM
+im in EST its about midnight for me . agreed on that . 
+
+cool. im going to run at least 2 instances 
+
+one instance on a local raz pi, and another on a virtual machine
+
+@Marsniper27
+What time zone are you in? It is almost 1am here. we should try to find a time we can chat and figure out exactly what need for MVP
+
+MonkeyMike.eth — 11/10/2024 11:56 PM
+and im a dev and founder to, so i work along side you thru this.
+November 11, 2024
+
+Marsniper27 — 11/11/2024 12:05 AM
+ya I can setup share for the git repo for the bot and modules later. Tomorrow will be busy with rememberance day stuff
+
+1
+
+@Marsniper27
+ya I can setup share for the git repo for the bot and modules later. Tomorrow will be busy with rememberance day stuff
+
+MonkeyMike.eth — 11/11/2024 12:06 AM
+word up brother man
+November 12, 2024
+
+MonkeyMike.eth — 11/12/2024 02:58 PM
+@Marsniper27 wat your wallet addy fam
+
+Marsniper27 — 11/12/2024 03:00 PM
+0xFBd8d20eF1999f52E799EFC1D77631B995a5dBB3
+[03:00 PM]
+Been sick haven't touched my pc today 
+November 13, 2024
+
+Marsniper27 — 11/13/2024 08:35 AM
+ok going to see if i can figure out whats up with these damn faucets today
+November 16, 2024
+
+Marsniper27 — 11/16/2024 08:36 PM
+ok got bot loaded up on AWS
+[08:36 PM]
+should be stable now.. i hope hahhahaha
+November 20, 2024
+
+@MonkeyMike.eth
+@Marsniper27 wat your wallet addy fam
+
+Marsniper27 — Yesterday at 09:30 AM
+you still around haha
+
+MonkeyMike.eth — Yesterday at 01:13 PM
+yeah im bak. my fukin internet cut out for days . ill be with you later tn.
+sending the first 250 to that address. ethereum layer1?
+[01:14 PM]
+ill never ghost, this is my career lol just juggling my bills . gettin straight again. u know how it is
+been fucked up wayyy to long hahaha but feels good to be on the precipous of kickin ass once again
+@Marsniper27 (edited)
+
+@MonkeyMike.eth
+yeah im bak. my fukin internet cut out for days . ill be with you later tn. sending the first 250 to that address. ethereum layer1?
+
+Marsniper27 — Yesterday at 05:22 PM
+what ever works for you man i can convert if i need to haha
+[05:22 PM]
+and no porblem just beena  week since i even saw you online so was wondering if you were good
+
+@Marsniper27
+what ever works for you man i can convert if i need to haha
+
+MonkeyMike.eth — Yesterday at 07:21 PM
+the address has no txns? 
+sending it now. 
+sending one first one to make sure its an active eth address
+[07:22 PM]
+https://etherscan.io/tx/0xc2aacccd9ddc4d20f1fcd9d8c9d73c4158cc668d8d48dae270c2f7c9293f85b3
+Ethereum (ETH) Blockchain Explorer
+Ethereum Transaction Hash (Txhash) Details | Etherscan
+Ethereum (ETH) detailed transaction info for txhash 0xc2aacccd9ddc4d20f1fcd9d8c9d73c4158cc668d8d48dae270c2f7c9293f85b3. The transaction status, block confirmation, gas fee, Ether (ETH), and token transfer are shown.
+
+
+Marsniper27 — Yesterday at 07:23 PM
+
+
+MonkeyMike.eth — Yesterday at 07:23 PM
+siick
+
+Marsniper27 — Yesterday at 07:24 PM
+ya that one hasnt been used on main net haha.
+
+MonkeyMike.eth — Yesterday at 07:24 PM
+https://etherscan.io/tx/0xc2ff5fe17c4cf6039d1d429a7fc5a662abfd4bada5dc531b43a700869e270bf1
+Ethereum (ETH) Blockchain Explorer
+Ethereum Transaction Hash (Txhash) Details | Etherscan
+Ethereum (ETH) detailed transaction info for txhash 0xc2ff5fe17c4cf6039d1d429a7fc5a662abfd4bada5dc531b43a700869e270bf1. The transaction status, block confirmation, gas fee, Ether (ETH), and token transfer are shown.
+
+[07:24 PM]
+boom baby (edited)
+[07:24 PM]
+Lets rooooll (edited)
+
+Marsniper27 — Yesterday at 07:24 PM
+awesome. thanks
+
+MonkeyMike.eth — Yesterday at 07:24 PM
+ill be back in an hour or so
+[07:24 PM]
+taking care of others
+[07:24 PM]
+gotta list of people i owe
+[07:24 PM]
+lolol
+
+Marsniper27 — Yesterday at 07:25 PM
+lol kk
+
+I was working on packaging up the code base in a nicer setup today.
+
+1
+
+@Marsniper27
+lol kk  I was working on packaging up the code base in a nicer setup today.
+
+MonkeyMike.eth — Yesterday at 07:26 PM
+fuck ya !!! sounds good. 
+keep in mind the more versatile we make this, the more we can tailor it to each specific use case.
+
+MadBananaDev — Yesterday at 09:21 PM
+
+
+MadMoneyLab — Yesterday at 09:21 PM
+
+
+MonkeyMike.eth — Yesterday at 09:22 PM
+
+
+@MonkeyMike.eth
+
+
+Marsniper27 — Yesterday at 09:57 PM
+Ok back up and running with some added checks and input validation
+
+1
+
+1
+
+@Marsniper27
+Ok back up and running with some added checks and input validation
+
+MonkeyMike.eth — Yesterday at 10:00 PM
+how do i call the erc20 faucet?
+[10:01 PM]
+server faucet?
+[10:02 PM]
+and how do i get erc20 balances?
+[10:02 PM]
+its working tho
+[10:02 PM]
+kudos!!!
+
+Marsniper27 — Yesterday at 10:05 PM
+base eth faucet is /use_faucet
+erc20 faucets are set per channel right now (will be per server) so in the other channels use /server_faucet
+[10:05 PM]
+to check erc20 balance you can use the /get_wallet_token_balance  command
+
+Marsniper27
+to check erc20 balance you can use the /get_wallet_token_balance  command
+
+Marsniper27 — Yesterday at 10:06 PM
+this gives option of selecting from programmed tokens in the list or entering a token address
+
+MonkeyMike.eth — Yesterday at 10:06 PM
+okay. can we make these NON ephermal. 
+we actually need the server to show the claims 
+the only ephermal needs is secret keys
+
+@Marsniper27
+base eth faucet is /use_faucet erc20 faucets are set per channel right now (will be per server) so in the other channels use /server_faucet
+
+MonkeyMike.eth — Yesterday at 10:06 PM
+okay so, currently the channels ID are acting as server Id? (edited)
+
+@Marsniper27
+to check erc20 balance you can use the /get_wallet_token_balance  command
+
+MonkeyMike.eth — Yesterday at 10:07 PM
+can we do a full balance too ?
+[10:07 PM]
+like all inside the wallet (edited)
+
+@MonkeyMike.eth
+okay so, currently the channels ID are acting as server Id? (edited)
+
+Marsniper27 — Yesterday at 10:07 PM
+ya for testing its 1 line change
+
+1
+
+1
+
+@MonkeyMike.eth
+like all inside the wallet (edited)
+
+Marsniper27 — Yesterday at 10:07 PM
+we could do one for all balances for progammed tokens
+
+1
+
+@MonkeyMike.eth
+okay. can we make these NON ephermal.  we actually need the server to show the claims  the only ephermal needs is secret keys
+
+Marsniper27 — Yesterday at 10:08 PM
+ya I can remove ephemerals
+
+1
+
+1
+
+MonkeyMike.eth — Yesterday at 10:08 PM
+wat about gating the function by role? (edited)
+
+Marsniper27 — Yesterday at 10:10 PM
+thats super easy.
+
+1
+
+MonkeyMike.eth — Yesterday at 10:10 PM
+awesome. great news.
+[10:10 PM]
+wat about increasing the claim amount due to the having a roles ?
+[10:11 PM]
+the current iteration we have, is using the Unbelievaboat 
+
+and it gives you x$ according to which "income roles" the user has
+[10:12 PM]
+we dont have to duplicate
+but the closer we are to that the easier the migration to this
+[10:12 PM]
+both
+[10:12 PM]
+socially
+[10:12 PM]
+and technically (edited)
+[10:12 PM]
+just spitballing
+
+Marsniper27 — Yesterday at 10:15 PM
+We can setup in the db a list of roles and the reward amount for them then when they use the faucet it will verify thier roles against the ones in the db and use that to determine the reward. if no roles they can get the tiny base amount to keep them aroudn and make them want the other roles
+[10:15 PM]
+We can have global roles as well as server specific roles
+
+MonkeyMike.eth — Yesterday at 10:15 PM
+PERFECT
+[10:15 PM]
+last crazy thing for now ,
+then wat about requiring a tweet . 
+can we verify a tweet to be able to claim ?
+
+Marsniper27 — Yesterday at 10:16 PM
+did you end up grabbing a twitter api sub?
+
+MonkeyMike.eth — Yesterday at 10:16 PM
+im thinking about it. thats why i asked
+[10:16 PM]
+hahahaha
+[10:16 PM]
+i have a free dev one
+[10:16 PM]
+but idk the scope (edited)
+
+Marsniper27 — Yesterday at 10:17 PM
+they have REALLY tight security so cant just scrape. i will ahve to double check what is available for the free one havent looked at it in a few months and it was right when they were changing everything
+
+1
+
+MonkeyMike.eth — Yesterday at 10:17 PM
+okay. 
+will research too. 
+okay illl be back in a bit and well continue .
+
+Marsniper27 — Yesterday at 10:21 PM
+I might be off soon but message away and i will read them in morning if not on lol
+[10:21 PM]
+got tog et kids up for school in 6 hours haha
+
+MonkeyMike.eth — Yesterday at 10:21 PM
+gotchu
+[10:21 PM]
+iight
+[10:22 PM]
+yeah lets meet up in morning
+[10:22 PM]
+GN bro !
+[10:22 PM]
+thank you !!! this is gna be AWESOME (edited)
+
+Marsniper27 — Yesterday at 10:29 PM
+latta
+
+1
+
+Message #general
