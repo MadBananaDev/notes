@@ -1,0 +1,36 @@
+DB:Faucets
+   |___>Collection: ETH
+   |               |___>Entry:
+   |               |            _id:Settings
+   |               |              payout:amount to pay out
+   |               |              maxBalance:cut off for faucet usage
+   |               |              timer:timer value
+   |               |___>Entry:
+   |                             _id:UserId
+   |                             lastUse:Timestamp
+   |___>Collection: MAD
+......
+
+Do we just want to have global settings for all faucets then have the db track users usage for each token per user:
+
+
+
+DB:Faucets
+   |___>Collection: GuildId
+   |               |___>Entry:
+   |               |             _id:TokenName
+   |               |              payout:amount to pay out
+   |               |              maxBalance:cut off for faucet usage
+   |               |              timer:timer value
+   |               |___>Entry:
+   |                             _id:UserId
+   |                             faucets:[{
+   |                                 token:tokenName
+   |                                 lastUse:Timestamp
+   |                             }]
+   |___>Collection: GuildId
+.......
+
+
+Or do we want settings per server for how they want the faucet to work?
+
